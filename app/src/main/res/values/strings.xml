@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuickServe</string>
+
+    <string name="enable_gps">Enable GPS</string>
+    <string name="required_for_this_app">Required for this app</string>
+    <string name="enable_now">Enable Now</string>
+    <string name="title_activity_payment_activty">PaymentActivty</string>
+    <string name="title_activity_cash_free_payment">CashFreePayment</string>
+</resources>

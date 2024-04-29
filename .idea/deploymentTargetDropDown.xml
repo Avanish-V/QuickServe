@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="OrderStatus">
+        <State />
+      </entry>
+      <entry key="OrdersSingleCard">
+        <State>
+          <runningDeviceTargetSelectedWithDropDown>
+            <Target>
+              <type value="RUNNING_DEVICE_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="SERIAL_NUMBER" />
+                  <value value="DISGJBGMCQ9DQSGA" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </runningDeviceTargetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-04-12T03:13:23.196810500Z" />
+        </State>
+      </entry>
+      <entry key="Unnamed">
+        <State />
+      </entry>
+      <entry key="features">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>

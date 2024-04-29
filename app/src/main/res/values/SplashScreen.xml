@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="App.Splash.Theme" parent="Theme.SplashScreen" >
+
+        <item name="windowSplashScreenBackground">#4169E1</item>
+        <item name="postSplashScreenTheme">@style/Theme.Serviz</item>
+        <item name="android:windowSplashScreenAnimatedIcon" tools:targetApi="s">@drawable/rapid</item>
+        <item name="splashScreenIconSize">50.px</item>
+
+        <item name="windowSplashScreenIconBackgroundColor">#FFFFFF</item>
+        <item name="android:windowSplashScreenBrandingImage" tools:targetApi="s">@string/app_name</item>
+
+
+    </style>
+
+</resources>

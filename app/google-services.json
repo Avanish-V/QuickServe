@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312507268167",
+    "project_id": "quickserve-4bf8c",
+    "storage_bucket": "quickserve-4bf8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312507268167:android:b538f42f9ad836689cc562",
+        "android_client_info": {
+          "package_name": "com.byteapps.QuickServe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxq46nGcl4MCgVGg2uQIgeSOBHYhbphL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
